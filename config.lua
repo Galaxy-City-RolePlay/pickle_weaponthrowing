@@ -1,12 +1,12 @@
 Config = {}
 
-Config.Debug = true
+Config.Debug = false
 
-Config.Language = "en"
+Config.Language = "de"
 
-Config.DeathDropsWeapon = true -- Drops your current weapon upon death.
+Config.DeathDropsWeapon = false -- Drops your current weapon upon death.
 
-Config.ThrowKeybind = "e"
+Config.ThrowKeybind = "k"
 
 Config.Weapons = { -- Any weapon in this list is throwable.
     "WEAPON_DAGGER",
